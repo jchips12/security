@@ -1,4 +1,4 @@
-package com.jchips12.tddninja;
+package com.jchips12.tddninja.jwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.jchips12.tddninja.controller;
+package com.jchips12.tddninja.jwt.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.jchips12.tddninja.entity.Movie;
-import com.jchips12.tddninja.repository.MovieRepository;
+import com.jchips12.tddninja.jwt.entity.Movie;
+import com.jchips12.tddninja.jwt.repository.MovieRepository;
 
 @RestController
 @RequestMapping("/api/movies")
