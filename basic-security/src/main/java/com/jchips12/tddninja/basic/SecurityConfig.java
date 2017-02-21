@@ -1,4 +1,4 @@
-package com.jchips12.tddninja.jwt;
+package com.jchips12.tddninja.basic;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

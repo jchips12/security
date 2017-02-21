@@ -1,4 +1,4 @@
-package com.jchips12.tddninja.jwt.entity;
+package com.jchips12.tddninja.basic.entity;
 
 import java.io.Serializable;
 import java.util.UUID;
